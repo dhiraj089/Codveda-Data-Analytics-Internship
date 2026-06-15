@@ -17,8 +17,8 @@
 ### 🔄 Level 2 — Intermediate
 | Task | Description | Dataset | Status |
 |------|-------------|---------|--------|
-| Task 1 | Regression Analysis | House Prediction | 🔄 In Progress |
 | Task 2 | Time Series Analysis | Stock Prices | 🔄 In Progress |
+| Task 3 | K-Means Clustering | Iris Dataset | 🔄 In Progress |
 
 ### ⏳ Level 3 — Advanced
 | Task | Description | Dataset | Status |
