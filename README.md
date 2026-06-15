@@ -33,6 +33,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Power BI
 ### ✅ Level 2 — Intermediate
 | Task | Description | Dataset | Status |
 |------|-------------|---------|--------|
-| Task 1 | Regression Analysis | House Prediction | ✅ Done |
 | Task 2 | Time Series Analysis | Stock Prices (AAPL) | ✅ Done |
 | Task 3 | K-Means Clustering | Iris Dataset | ✅ Done |
