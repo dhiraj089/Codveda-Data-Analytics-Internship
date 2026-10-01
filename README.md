@@ -39,4 +39,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, Power BI
 | Task | Description | Dataset | Status |
 |------|-------------|---------|--------|
 | Task 1 | Classification / Churn Prediction | Churn Data | ✅ Done |
-| Task 2 | Power BI Dashboard | House / Churn | ⏳ Pending |
+| Task 2 | Power BI Dashboard | House / Churn | ✅ Done |
