@@ -2,7 +2,7 @@
 
 **Intern:** Dhiraj Karbhari Jadhav  
 **Domain:** Data Analytics  
-**Duration:** June 2026 – July 2026  
+**Duration:** May 2026 – July 2026  
 
 ---
 
